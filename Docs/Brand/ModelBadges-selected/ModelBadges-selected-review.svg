@@ -1,0 +1,1006 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="2148" viewBox="0 0 1600 2148">
+      <defs>
+        <linearGradient id="page" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0" stop-color="#F8F8F9"/>
+          <stop offset="1" stop-color="#ECEDEF"/>
+        </linearGradient>
+      </defs>
+      <rect width="1600" height="2148" fill="url(#page)"/>
+      <text x="72" y="76" font-family="SF Pro Display, SF Pro Text, Helvetica Neue, Arial, sans-serif"
+            font-size="34" font-weight="760" fill="#17181A">Prompt Dock · Model Badges</text>
+      <text x="72" y="116" font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+            font-size="17" font-weight="530" fill="#75797E">缩写优先 · 统一结构 · 38 个模型家族 · 不含聚合平台</text>
+      <g transform="translate(86 196)">
+          <g transform="scale(1.09375)"><defs>
+    <linearGradient id="m0-surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#292C2F"/>
+      <stop offset="0.56" stop-color="#17191B"/>
+      <stop offset="1" stop-color="#0B0C0D"/>
+    </linearGradient>
+    <linearGradient id="m0-accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#84D8C4" stop-opacity="0.88"/>
+      <stop offset="1" stop-color="#84D8C4"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="35" fill="url(#m0-surface)"/>
+  <rect x="0.75" y="0.75" width="126.5" height="126.5" rx="34.25"
+        fill="none" stroke="#FFFFFF" stroke-opacity="0.15" stroke-width="1.5"/>
+  <text x="64" y="75" text-anchor="middle"
+        font-family="SF Pro Display, SF Pro Text, Helvetica Neue, Arial, sans-serif"
+        font-size="32" font-weight="750" letter-spacing="-1.4"
+        fill="#F7F7F4">GPT</text>
+  <rect x="46" y="95" width="36" height="4" rx="2" fill="url(#m0-accent)"/></g>
+          <text x="70" y="172" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="18" font-weight="700" fill="#1C1D1F">GPT Image</text>
+          <text x="70" y="198" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="12" font-weight="650" letter-spacing="1.2" fill="#84D8C4">GPT</text>
+        </g><g transform="translate(386 196)">
+          <g transform="scale(1.09375)"><defs>
+    <linearGradient id="m1-surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#292C2F"/>
+      <stop offset="0.56" stop-color="#17191B"/>
+      <stop offset="1" stop-color="#0B0C0D"/>
+    </linearGradient>
+    <linearGradient id="m1-accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#EACB62" stop-opacity="0.88"/>
+      <stop offset="1" stop-color="#EACB62"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="35" fill="url(#m1-surface)"/>
+  <rect x="0.75" y="0.75" width="126.5" height="126.5" rx="34.25"
+        fill="none" stroke="#FFFFFF" stroke-opacity="0.15" stroke-width="1.5"/>
+  <text x="64" y="75" text-anchor="middle"
+        font-family="SF Pro Display, SF Pro Text, Helvetica Neue, Arial, sans-serif"
+        font-size="38" font-weight="750" letter-spacing="-1.2"
+        fill="#F7F7F4">NB</text>
+  <rect x="46" y="95" width="36" height="4" rx="2" fill="url(#m1-accent)"/></g>
+          <text x="70" y="172" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="18" font-weight="700" fill="#1C1D1F">Nano Banana</text>
+          <text x="70" y="198" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="12" font-weight="650" letter-spacing="1.2" fill="#EACB62">NB</text>
+        </g><g transform="translate(686 196)">
+          <g transform="scale(1.09375)"><defs>
+    <linearGradient id="m2-surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#292C2F"/>
+      <stop offset="0.56" stop-color="#17191B"/>
+      <stop offset="1" stop-color="#0B0C0D"/>
+    </linearGradient>
+    <linearGradient id="m2-accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8DB6E8" stop-opacity="0.88"/>
+      <stop offset="1" stop-color="#8DB6E8"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="35" fill="url(#m2-surface)"/>
+  <rect x="0.75" y="0.75" width="126.5" height="126.5" rx="34.25"
+        fill="none" stroke="#FFFFFF" stroke-opacity="0.15" stroke-width="1.5"/>
+  <text x="64" y="75" text-anchor="middle"
+        font-family="SF Pro Display, SF Pro Text, Helvetica Neue, Arial, sans-serif"
+        font-size="38" font-weight="750" letter-spacing="-1.2"
+        fill="#F7F7F4">MJ</text>
+  <rect x="46" y="95" width="36" height="4" rx="2" fill="url(#m2-accent)"/></g>
+          <text x="70" y="172" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="18" font-weight="700" fill="#1C1D1F">Midjourney</text>
+          <text x="70" y="198" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="12" font-weight="650" letter-spacing="1.2" fill="#8DB6E8">MJ</text>
+        </g><g transform="translate(986 196)">
+          <g transform="scale(1.09375)"><defs>
+    <linearGradient id="m3-surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#292C2F"/>
+      <stop offset="0.56" stop-color="#17191B"/>
+      <stop offset="1" stop-color="#0B0C0D"/>
+    </linearGradient>
+    <linearGradient id="m3-accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#C895E8" stop-opacity="0.88"/>
+      <stop offset="1" stop-color="#C895E8"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="35" fill="url(#m3-surface)"/>
+  <rect x="0.75" y="0.75" width="126.5" height="126.5" rx="34.25"
+        fill="none" stroke="#FFFFFF" stroke-opacity="0.15" stroke-width="1.5"/>
+  <text x="64" y="75" text-anchor="middle"
+        font-family="SF Pro Display, SF Pro Text, Helvetica Neue, Arial, sans-serif"
+        font-size="38" font-weight="750" letter-spacing="-1.2"
+        fill="#F7F7F4">FX</text>
+  <rect x="46" y="95" width="36" height="4" rx="2" fill="url(#m3-accent)"/></g>
+          <text x="70" y="172" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="18" font-weight="700" fill="#1C1D1F">FLUX</text>
+          <text x="70" y="198" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="12" font-weight="650" letter-spacing="1.2" fill="#C895E8">FX</text>
+        </g><g transform="translate(1286 196)">
+          <g transform="scale(1.09375)"><defs>
+    <linearGradient id="m4-surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#292C2F"/>
+      <stop offset="0.56" stop-color="#17191B"/>
+      <stop offset="1" stop-color="#0B0C0D"/>
+    </linearGradient>
+    <linearGradient id="m4-accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#E99675" stop-opacity="0.88"/>
+      <stop offset="1" stop-color="#E99675"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="35" fill="url(#m4-surface)"/>
+  <rect x="0.75" y="0.75" width="126.5" height="126.5" rx="34.25"
+        fill="none" stroke="#FFFFFF" stroke-opacity="0.15" stroke-width="1.5"/>
+  <text x="64" y="75" text-anchor="middle"
+        font-family="SF Pro Display, SF Pro Text, Helvetica Neue, Arial, sans-serif"
+        font-size="38" font-weight="750" letter-spacing="-1.2"
+        fill="#F7F7F4">SR</text>
+  <rect x="46" y="95" width="36" height="4" rx="2" fill="url(#m4-accent)"/></g>
+          <text x="70" y="172" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="18" font-weight="700" fill="#1C1D1F">Seedream</text>
+          <text x="70" y="198" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="12" font-weight="650" letter-spacing="1.2" fill="#E99675">SR</text>
+        </g><g transform="translate(86 428)">
+          <g transform="scale(1.09375)"><defs>
+    <linearGradient id="m5-surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#292C2F"/>
+      <stop offset="0.56" stop-color="#17191B"/>
+      <stop offset="1" stop-color="#0B0C0D"/>
+    </linearGradient>
+    <linearGradient id="m5-accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#83C8A0" stop-opacity="0.88"/>
+      <stop offset="1" stop-color="#83C8A0"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="35" fill="url(#m5-surface)"/>
+  <rect x="0.75" y="0.75" width="126.5" height="126.5" rx="34.25"
+        fill="none" stroke="#FFFFFF" stroke-opacity="0.15" stroke-width="1.5"/>
+  <text x="64" y="75" text-anchor="middle"
+        font-family="SF Pro Display, SF Pro Text, Helvetica Neue, Arial, sans-serif"
+        font-size="38" font-weight="750" letter-spacing="-1.2"
+        fill="#F7F7F4">ID</text>
+  <rect x="46" y="95" width="36" height="4" rx="2" fill="url(#m5-accent)"/></g>
+          <text x="70" y="172" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="18" font-weight="700" fill="#1C1D1F">Ideogram</text>
+          <text x="70" y="198" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="12" font-weight="650" letter-spacing="1.2" fill="#83C8A0">ID</text>
+        </g><g transform="translate(386 428)">
+          <g transform="scale(1.09375)"><defs>
+    <linearGradient id="m6-surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#292C2F"/>
+      <stop offset="0.56" stop-color="#17191B"/>
+      <stop offset="1" stop-color="#0B0C0D"/>
+    </linearGradient>
+    <linearGradient id="m6-accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#D899B8" stop-opacity="0.88"/>
+      <stop offset="1" stop-color="#D899B8"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="35" fill="url(#m6-surface)"/>
+  <rect x="0.75" y="0.75" width="126.5" height="126.5" rx="34.25"
+        fill="none" stroke="#FFFFFF" stroke-opacity="0.15" stroke-width="1.5"/>
+  <text x="64" y="75" text-anchor="middle"
+        font-family="SF Pro Display, SF Pro Text, Helvetica Neue, Arial, sans-serif"
+        font-size="32" font-weight="750" letter-spacing="-1.4"
+        fill="#F7F7F4">GRK</text>
+  <rect x="46" y="95" width="36" height="4" rx="2" fill="url(#m6-accent)"/></g>
+          <text x="70" y="172" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="18" font-weight="700" fill="#1C1D1F">Grok Imagine</text>
+          <text x="70" y="198" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="12" font-weight="650" letter-spacing="1.2" fill="#D899B8">GRK</text>
+        </g><g transform="translate(686 428)">
+          <g transform="scale(1.09375)"><defs>
+    <linearGradient id="m7-surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#292C2F"/>
+      <stop offset="0.56" stop-color="#17191B"/>
+      <stop offset="1" stop-color="#0B0C0D"/>
+    </linearGradient>
+    <linearGradient id="m7-accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#849EED" stop-opacity="0.88"/>
+      <stop offset="1" stop-color="#849EED"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="35" fill="url(#m7-surface)"/>
+  <rect x="0.75" y="0.75" width="126.5" height="126.5" rx="34.25"
+        fill="none" stroke="#FFFFFF" stroke-opacity="0.15" stroke-width="1.5"/>
+  <text x="64" y="75" text-anchor="middle"
+        font-family="SF Pro Display, SF Pro Text, Helvetica Neue, Arial, sans-serif"
+        font-size="38" font-weight="750" letter-spacing="-1.2"
+        fill="#F7F7F4">QW</text>
+  <rect x="46" y="95" width="36" height="4" rx="2" fill="url(#m7-accent)"/></g>
+          <text x="70" y="172" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="18" font-weight="700" fill="#1C1D1F">Qwen Image</text>
+          <text x="70" y="198" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="12" font-weight="650" letter-spacing="1.2" fill="#849EED">QW</text>
+        </g><g transform="translate(986 428)">
+          <g transform="scale(1.09375)"><defs>
+    <linearGradient id="m8-surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#292C2F"/>
+      <stop offset="0.56" stop-color="#17191B"/>
+      <stop offset="1" stop-color="#0B0C0D"/>
+    </linearGradient>
+    <linearGradient id="m8-accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#87C3CC" stop-opacity="0.88"/>
+      <stop offset="1" stop-color="#87C3CC"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="35" fill="url(#m8-surface)"/>
+  <rect x="0.75" y="0.75" width="126.5" height="126.5" rx="34.25"
+        fill="none" stroke="#FFFFFF" stroke-opacity="0.15" stroke-width="1.5"/>
+  <text x="64" y="75" text-anchor="middle"
+        font-family="SF Pro Display, SF Pro Text, Helvetica Neue, Arial, sans-serif"
+        font-size="38" font-weight="750" letter-spacing="-1.2"
+        fill="#F7F7F4">SD</text>
+  <rect x="46" y="95" width="36" height="4" rx="2" fill="url(#m8-accent)"/></g>
+          <text x="70" y="172" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="18" font-weight="700" fill="#1C1D1F">Stable Diffusion</text>
+          <text x="70" y="198" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="12" font-weight="650" letter-spacing="1.2" fill="#87C3CC">SD</text>
+        </g><g transform="translate(1286 428)">
+          <g transform="scale(1.09375)"><defs>
+    <linearGradient id="m9-surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#292C2F"/>
+      <stop offset="0.56" stop-color="#17191B"/>
+      <stop offset="1" stop-color="#0B0C0D"/>
+    </linearGradient>
+    <linearGradient id="m9-accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#78BE98" stop-opacity="0.88"/>
+      <stop offset="1" stop-color="#78BE98"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="35" fill="url(#m9-surface)"/>
+  <rect x="0.75" y="0.75" width="126.5" height="126.5" rx="34.25"
+        fill="none" stroke="#FFFFFF" stroke-opacity="0.15" stroke-width="1.5"/>
+  <text x="64" y="75" text-anchor="middle"
+        font-family="SF Pro Display, SF Pro Text, Helvetica Neue, Arial, sans-serif"
+        font-size="38" font-weight="750" letter-spacing="-1.2"
+        fill="#F7F7F4">RC</text>
+  <rect x="46" y="95" width="36" height="4" rx="2" fill="url(#m9-accent)"/></g>
+          <text x="70" y="172" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="18" font-weight="700" fill="#1C1D1F">Recraft</text>
+          <text x="70" y="198" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="12" font-weight="650" letter-spacing="1.2" fill="#78BE98">RC</text>
+        </g><g transform="translate(86 660)">
+          <g transform="scale(1.09375)"><defs>
+    <linearGradient id="m10-surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#292C2F"/>
+      <stop offset="0.56" stop-color="#17191B"/>
+      <stop offset="1" stop-color="#0B0C0D"/>
+    </linearGradient>
+    <linearGradient id="m10-accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#E69A71" stop-opacity="0.88"/>
+      <stop offset="1" stop-color="#E69A71"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="35" fill="url(#m10-surface)"/>
+  <rect x="0.75" y="0.75" width="126.5" height="126.5" rx="34.25"
+        fill="none" stroke="#FFFFFF" stroke-opacity="0.15" stroke-width="1.5"/>
+  <text x="64" y="75" text-anchor="middle"
+        font-family="SF Pro Display, SF Pro Text, Helvetica Neue, Arial, sans-serif"
+        font-size="32" font-weight="750" letter-spacing="-1.4"
+        fill="#F7F7F4">PHX</text>
+  <rect x="46" y="95" width="36" height="4" rx="2" fill="url(#m10-accent)"/></g>
+          <text x="70" y="172" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="18" font-weight="700" fill="#1C1D1F">Phoenix</text>
+          <text x="70" y="198" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="12" font-weight="650" letter-spacing="1.2" fill="#E69A71">PHX</text>
+        </g><g transform="translate(386 660)">
+          <g transform="scale(1.09375)"><defs>
+    <linearGradient id="m11-surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#292C2F"/>
+      <stop offset="0.56" stop-color="#17191B"/>
+      <stop offset="1" stop-color="#0B0C0D"/>
+    </linearGradient>
+    <linearGradient id="m11-accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#B493E1" stop-opacity="0.88"/>
+      <stop offset="1" stop-color="#B493E1"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="35" fill="url(#m11-surface)"/>
+  <rect x="0.75" y="0.75" width="126.5" height="126.5" rx="34.25"
+        fill="none" stroke="#FFFFFF" stroke-opacity="0.15" stroke-width="1.5"/>
+  <text x="64" y="75" text-anchor="middle"
+        font-family="SF Pro Display, SF Pro Text, Helvetica Neue, Arial, sans-serif"
+        font-size="38" font-weight="750" letter-spacing="-1.2"
+        fill="#F7F7F4">LO</text>
+  <rect x="46" y="95" width="36" height="4" rx="2" fill="url(#m11-accent)"/></g>
+          <text x="70" y="172" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="18" font-weight="700" fill="#1C1D1F">Lucid Origin</text>
+          <text x="70" y="198" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="12" font-weight="650" letter-spacing="1.2" fill="#B493E1">LO</text>
+        </g><g transform="translate(686 660)">
+          <g transform="scale(1.09375)"><defs>
+    <linearGradient id="m12-surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#292C2F"/>
+      <stop offset="0.56" stop-color="#17191B"/>
+      <stop offset="1" stop-color="#0B0C0D"/>
+    </linearGradient>
+    <linearGradient id="m12-accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#EB8A69" stop-opacity="0.88"/>
+      <stop offset="1" stop-color="#EB8A69"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="35" fill="url(#m12-surface)"/>
+  <rect x="0.75" y="0.75" width="126.5" height="126.5" rx="34.25"
+        fill="none" stroke="#FFFFFF" stroke-opacity="0.15" stroke-width="1.5"/>
+  <text x="64" y="75" text-anchor="middle"
+        font-family="SF Pro Display, SF Pro Text, Helvetica Neue, Arial, sans-serif"
+        font-size="32" font-weight="750" letter-spacing="-1.4"
+        fill="#F7F7F4">FFI</text>
+  <rect x="46" y="95" width="36" height="4" rx="2" fill="url(#m12-accent)"/></g>
+          <text x="70" y="172" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="18" font-weight="700" fill="#1C1D1F">Firefly Image</text>
+          <text x="70" y="198" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="12" font-weight="650" letter-spacing="1.2" fill="#EB8A69">FFI</text>
+        </g><g transform="translate(986 660)">
+          <g transform="scale(1.09375)"><defs>
+    <linearGradient id="m13-surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#292C2F"/>
+      <stop offset="0.56" stop-color="#17191B"/>
+      <stop offset="1" stop-color="#0B0C0D"/>
+    </linearGradient>
+    <linearGradient id="m13-accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#70CCAA" stop-opacity="0.88"/>
+      <stop offset="1" stop-color="#70CCAA"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="35" fill="url(#m13-surface)"/>
+  <rect x="0.75" y="0.75" width="126.5" height="126.5" rx="34.25"
+        fill="none" stroke="#FFFFFF" stroke-opacity="0.15" stroke-width="1.5"/>
+  <text x="64" y="75" text-anchor="middle"
+        font-family="SF Pro Display, SF Pro Text, Helvetica Neue, Arial, sans-serif"
+        font-size="32" font-weight="750" letter-spacing="-1.4"
+        fill="#F7F7F4">VEO</text>
+  <rect x="46" y="95" width="36" height="4" rx="2" fill="url(#m13-accent)"/></g>
+          <text x="70" y="172" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="18" font-weight="700" fill="#1C1D1F">Veo</text>
+          <text x="70" y="198" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="12" font-weight="650" letter-spacing="1.2" fill="#70CCAA">VEO</text>
+        </g><g transform="translate(1286 660)">
+          <g transform="scale(1.09375)"><defs>
+    <linearGradient id="m14-surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#292C2F"/>
+      <stop offset="0.56" stop-color="#17191B"/>
+      <stop offset="1" stop-color="#0B0C0D"/>
+    </linearGradient>
+    <linearGradient id="m14-accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#E9A35D" stop-opacity="0.88"/>
+      <stop offset="1" stop-color="#E9A35D"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="35" fill="url(#m14-surface)"/>
+  <rect x="0.75" y="0.75" width="126.5" height="126.5" rx="34.25"
+        fill="none" stroke="#FFFFFF" stroke-opacity="0.15" stroke-width="1.5"/>
+  <text x="64" y="75" text-anchor="middle"
+        font-family="SF Pro Display, SF Pro Text, Helvetica Neue, Arial, sans-serif"
+        font-size="38" font-weight="750" letter-spacing="-1.2"
+        fill="#F7F7F4">KL</text>
+  <rect x="46" y="95" width="36" height="4" rx="2" fill="url(#m14-accent)"/></g>
+          <text x="70" y="172" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="18" font-weight="700" fill="#1C1D1F">Kling</text>
+          <text x="70" y="198" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="12" font-weight="650" letter-spacing="1.2" fill="#E9A35D">KL</text>
+        </g><g transform="translate(86 892)">
+          <g transform="scale(1.09375)"><defs>
+    <linearGradient id="m15-surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#292C2F"/>
+      <stop offset="0.56" stop-color="#17191B"/>
+      <stop offset="1" stop-color="#0B0C0D"/>
+    </linearGradient>
+    <linearGradient id="m15-accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#E87988" stop-opacity="0.88"/>
+      <stop offset="1" stop-color="#E87988"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="35" fill="url(#m15-surface)"/>
+  <rect x="0.75" y="0.75" width="126.5" height="126.5" rx="34.25"
+        fill="none" stroke="#FFFFFF" stroke-opacity="0.15" stroke-width="1.5"/>
+  <text x="64" y="75" text-anchor="middle"
+        font-family="SF Pro Display, SF Pro Text, Helvetica Neue, Arial, sans-serif"
+        font-size="38" font-weight="750" letter-spacing="-1.2"
+        fill="#F7F7F4">SE</text>
+  <rect x="46" y="95" width="36" height="4" rx="2" fill="url(#m15-accent)"/></g>
+          <text x="70" y="172" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="18" font-weight="700" fill="#1C1D1F">Seedance</text>
+          <text x="70" y="198" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="12" font-weight="650" letter-spacing="1.2" fill="#E87988">SE</text>
+        </g><g transform="translate(386 892)">
+          <g transform="scale(1.09375)"><defs>
+    <linearGradient id="m16-surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#292C2F"/>
+      <stop offset="0.56" stop-color="#17191B"/>
+      <stop offset="1" stop-color="#0B0C0D"/>
+    </linearGradient>
+    <linearGradient id="m16-accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#9D95E9" stop-opacity="0.88"/>
+      <stop offset="1" stop-color="#9D95E9"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="35" fill="url(#m16-surface)"/>
+  <rect x="0.75" y="0.75" width="126.5" height="126.5" rx="34.25"
+        fill="none" stroke="#FFFFFF" stroke-opacity="0.15" stroke-width="1.5"/>
+  <text x="64" y="75" text-anchor="middle"
+        font-family="SF Pro Display, SF Pro Text, Helvetica Neue, Arial, sans-serif"
+        font-size="38" font-weight="750" letter-spacing="-1.2"
+        fill="#F7F7F4">RW</text>
+  <rect x="46" y="95" width="36" height="4" rx="2" fill="url(#m16-accent)"/></g>
+          <text x="70" y="172" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="18" font-weight="700" fill="#1C1D1F">Runway Gen</text>
+          <text x="70" y="198" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="12" font-weight="650" letter-spacing="1.2" fill="#9D95E9">RW</text>
+        </g><g transform="translate(686 892)">
+          <g transform="scale(1.09375)"><defs>
+    <linearGradient id="m17-surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#292C2F"/>
+      <stop offset="0.56" stop-color="#17191B"/>
+      <stop offset="1" stop-color="#0B0C0D"/>
+    </linearGradient>
+    <linearGradient id="m17-accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#65B9DD" stop-opacity="0.88"/>
+      <stop offset="1" stop-color="#65B9DD"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="35" fill="url(#m17-surface)"/>
+  <rect x="0.75" y="0.75" width="126.5" height="126.5" rx="34.25"
+        fill="none" stroke="#FFFFFF" stroke-opacity="0.15" stroke-width="1.5"/>
+  <text x="64" y="75" text-anchor="middle"
+        font-family="SF Pro Display, SF Pro Text, Helvetica Neue, Arial, sans-serif"
+        font-size="38" font-weight="750" letter-spacing="-1.2"
+        fill="#F7F7F4">HL</text>
+  <rect x="46" y="95" width="36" height="4" rx="2" fill="url(#m17-accent)"/></g>
+          <text x="70" y="172" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="18" font-weight="700" fill="#1C1D1F">Hailuo</text>
+          <text x="70" y="198" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="12" font-weight="650" letter-spacing="1.2" fill="#65B9DD">HL</text>
+        </g><g transform="translate(986 892)">
+          <g transform="scale(1.09375)"><defs>
+    <linearGradient id="m18-surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#292C2F"/>
+      <stop offset="0.56" stop-color="#17191B"/>
+      <stop offset="1" stop-color="#0B0C0D"/>
+    </linearGradient>
+    <linearGradient id="m18-accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#EAC664" stop-opacity="0.88"/>
+      <stop offset="1" stop-color="#EAC664"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="35" fill="url(#m18-surface)"/>
+  <rect x="0.75" y="0.75" width="126.5" height="126.5" rx="34.25"
+        fill="none" stroke="#FFFFFF" stroke-opacity="0.15" stroke-width="1.5"/>
+  <text x="64" y="75" text-anchor="middle"
+        font-family="SF Pro Display, SF Pro Text, Helvetica Neue, Arial, sans-serif"
+        font-size="32" font-weight="750" letter-spacing="-1.4"
+        fill="#F7F7F4">RAY</text>
+  <rect x="46" y="95" width="36" height="4" rx="2" fill="url(#m18-accent)"/></g>
+          <text x="70" y="172" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="18" font-weight="700" fill="#1C1D1F">Luma Ray</text>
+          <text x="70" y="198" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="12" font-weight="650" letter-spacing="1.2" fill="#EAC664">RAY</text>
+        </g><g transform="translate(1286 892)">
+          <g transform="scale(1.09375)"><defs>
+    <linearGradient id="m19-surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#292C2F"/>
+      <stop offset="0.56" stop-color="#17191B"/>
+      <stop offset="1" stop-color="#0B0C0D"/>
+    </linearGradient>
+    <linearGradient id="m19-accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8DC979" stop-opacity="0.88"/>
+      <stop offset="1" stop-color="#8DC979"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="35" fill="url(#m19-surface)"/>
+  <rect x="0.75" y="0.75" width="126.5" height="126.5" rx="34.25"
+        fill="none" stroke="#FFFFFF" stroke-opacity="0.15" stroke-width="1.5"/>
+  <text x="64" y="75" text-anchor="middle"
+        font-family="SF Pro Display, SF Pro Text, Helvetica Neue, Arial, sans-serif"
+        font-size="32" font-weight="750" letter-spacing="-1.4"
+        fill="#F7F7F4">WAN</text>
+  <rect x="46" y="95" width="36" height="4" rx="2" fill="url(#m19-accent)"/></g>
+          <text x="70" y="172" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="18" font-weight="700" fill="#1C1D1F">Wan</text>
+          <text x="70" y="198" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="12" font-weight="650" letter-spacing="1.2" fill="#8DC979">WAN</text>
+        </g><g transform="translate(86 1124)">
+          <g transform="scale(1.09375)"><defs>
+    <linearGradient id="m20-surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#292C2F"/>
+      <stop offset="0.56" stop-color="#17191B"/>
+      <stop offset="1" stop-color="#0B0C0D"/>
+    </linearGradient>
+    <linearGradient id="m20-accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#E87963" stop-opacity="0.88"/>
+      <stop offset="1" stop-color="#E87963"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="35" fill="url(#m20-surface)"/>
+  <rect x="0.75" y="0.75" width="126.5" height="126.5" rx="34.25"
+        fill="none" stroke="#FFFFFF" stroke-opacity="0.15" stroke-width="1.5"/>
+  <text x="64" y="75" text-anchor="middle"
+        font-family="SF Pro Display, SF Pro Text, Helvetica Neue, Arial, sans-serif"
+        font-size="32" font-weight="750" letter-spacing="-1.4"
+        fill="#F7F7F4">FFV</text>
+  <rect x="46" y="95" width="36" height="4" rx="2" fill="url(#m20-accent)"/></g>
+          <text x="70" y="172" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="18" font-weight="700" fill="#1C1D1F">Firefly Video</text>
+          <text x="70" y="198" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="12" font-weight="650" letter-spacing="1.2" fill="#E87963">FFV</text>
+        </g><g transform="translate(386 1124)">
+          <g transform="scale(1.09375)"><defs>
+    <linearGradient id="m21-surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#292C2F"/>
+      <stop offset="0.56" stop-color="#17191B"/>
+      <stop offset="1" stop-color="#0B0C0D"/>
+    </linearGradient>
+    <linearGradient id="m21-accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#E89AAC" stop-opacity="0.88"/>
+      <stop offset="1" stop-color="#E89AAC"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="35" fill="url(#m21-surface)"/>
+  <rect x="0.75" y="0.75" width="126.5" height="126.5" rx="34.25"
+        fill="none" stroke="#FFFFFF" stroke-opacity="0.15" stroke-width="1.5"/>
+  <text x="64" y="75" text-anchor="middle"
+        font-family="SF Pro Display, SF Pro Text, Helvetica Neue, Arial, sans-serif"
+        font-size="38" font-weight="750" letter-spacing="-1.2"
+        fill="#F7F7F4">PK</text>
+  <rect x="46" y="95" width="36" height="4" rx="2" fill="url(#m21-accent)"/></g>
+          <text x="70" y="172" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="18" font-weight="700" fill="#1C1D1F">Pika</text>
+          <text x="70" y="198" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="12" font-weight="650" letter-spacing="1.2" fill="#E89AAC">PK</text>
+        </g><g transform="translate(686 1124)">
+          <g transform="scale(1.09375)"><defs>
+    <linearGradient id="m22-surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#292C2F"/>
+      <stop offset="0.56" stop-color="#17191B"/>
+      <stop offset="1" stop-color="#0B0C0D"/>
+    </linearGradient>
+    <linearGradient id="m22-accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#879FE8" stop-opacity="0.88"/>
+      <stop offset="1" stop-color="#879FE8"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="35" fill="url(#m22-surface)"/>
+  <rect x="0.75" y="0.75" width="126.5" height="126.5" rx="34.25"
+        fill="none" stroke="#FFFFFF" stroke-opacity="0.15" stroke-width="1.5"/>
+  <text x="64" y="75" text-anchor="middle"
+        font-family="SF Pro Display, SF Pro Text, Helvetica Neue, Arial, sans-serif"
+        font-size="38" font-weight="750" letter-spacing="-1.2"
+        fill="#F7F7F4">PV</text>
+  <rect x="46" y="95" width="36" height="4" rx="2" fill="url(#m22-accent)"/></g>
+          <text x="70" y="172" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="18" font-weight="700" fill="#1C1D1F">PixVerse</text>
+          <text x="70" y="198" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="12" font-weight="650" letter-spacing="1.2" fill="#879FE8">PV</text>
+        </g><g transform="translate(986 1124)">
+          <g transform="scale(1.09375)"><defs>
+    <linearGradient id="m23-surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#292C2F"/>
+      <stop offset="0.56" stop-color="#17191B"/>
+      <stop offset="1" stop-color="#0B0C0D"/>
+    </linearGradient>
+    <linearGradient id="m23-accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#72C4D1" stop-opacity="0.88"/>
+      <stop offset="1" stop-color="#72C4D1"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="35" fill="url(#m23-surface)"/>
+  <rect x="0.75" y="0.75" width="126.5" height="126.5" rx="34.25"
+        fill="none" stroke="#FFFFFF" stroke-opacity="0.15" stroke-width="1.5"/>
+  <text x="64" y="75" text-anchor="middle"
+        font-family="SF Pro Display, SF Pro Text, Helvetica Neue, Arial, sans-serif"
+        font-size="38" font-weight="750" letter-spacing="-1.2"
+        fill="#F7F7F4">VD</text>
+  <rect x="46" y="95" width="36" height="4" rx="2" fill="url(#m23-accent)"/></g>
+          <text x="70" y="172" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="18" font-weight="700" fill="#1C1D1F">Vidu</text>
+          <text x="70" y="198" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="12" font-weight="650" letter-spacing="1.2" fill="#72C4D1">VD</text>
+        </g><g transform="translate(1286 1124)">
+          <g transform="scale(1.09375)"><defs>
+    <linearGradient id="m24-surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#292C2F"/>
+      <stop offset="0.56" stop-color="#17191B"/>
+      <stop offset="1" stop-color="#0B0C0D"/>
+    </linearGradient>
+    <linearGradient id="m24-accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#80B6E5" stop-opacity="0.88"/>
+      <stop offset="1" stop-color="#80B6E5"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="35" fill="url(#m24-surface)"/>
+  <rect x="0.75" y="0.75" width="126.5" height="126.5" rx="34.25"
+        fill="none" stroke="#FFFFFF" stroke-opacity="0.15" stroke-width="1.5"/>
+  <text x="64" y="75" text-anchor="middle"
+        font-family="SF Pro Display, SF Pro Text, Helvetica Neue, Arial, sans-serif"
+        font-size="38" font-weight="750" letter-spacing="-1.2"
+        fill="#F7F7F4">HY</text>
+  <rect x="46" y="95" width="36" height="4" rx="2" fill="url(#m24-accent)"/></g>
+          <text x="70" y="172" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="18" font-weight="700" fill="#1C1D1F">Hunyuan Video</text>
+          <text x="70" y="198" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="12" font-weight="650" letter-spacing="1.2" fill="#80B6E5">HY</text>
+        </g><g transform="translate(86 1356)">
+          <g transform="scale(1.09375)"><defs>
+    <linearGradient id="m25-surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#292C2F"/>
+      <stop offset="0.56" stop-color="#17191B"/>
+      <stop offset="1" stop-color="#0B0C0D"/>
+    </linearGradient>
+    <linearGradient id="m25-accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#A58BE0" stop-opacity="0.88"/>
+      <stop offset="1" stop-color="#A58BE0"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="35" fill="url(#m25-surface)"/>
+  <rect x="0.75" y="0.75" width="126.5" height="126.5" rx="34.25"
+        fill="none" stroke="#FFFFFF" stroke-opacity="0.15" stroke-width="1.5"/>
+  <text x="64" y="75" text-anchor="middle"
+        font-family="SF Pro Display, SF Pro Text, Helvetica Neue, Arial, sans-serif"
+        font-size="32" font-weight="750" letter-spacing="-1.4"
+        fill="#F7F7F4">LTX</text>
+  <rect x="46" y="95" width="36" height="4" rx="2" fill="url(#m25-accent)"/></g>
+          <text x="70" y="172" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="18" font-weight="700" fill="#1C1D1F">LTX Video</text>
+          <text x="70" y="198" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="12" font-weight="650" letter-spacing="1.2" fill="#A58BE0">LTX</text>
+        </g><g transform="translate(386 1356)">
+          <g transform="scale(1.09375)"><defs>
+    <linearGradient id="m26-surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#292C2F"/>
+      <stop offset="0.56" stop-color="#17191B"/>
+      <stop offset="1" stop-color="#0B0C0D"/>
+    </linearGradient>
+    <linearGradient id="m26-accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#E99B5A" stop-opacity="0.88"/>
+      <stop offset="1" stop-color="#E99B5A"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="35" fill="url(#m26-surface)"/>
+  <rect x="0.75" y="0.75" width="126.5" height="126.5" rx="34.25"
+        fill="none" stroke="#FFFFFF" stroke-opacity="0.15" stroke-width="1.5"/>
+  <text x="64" y="75" text-anchor="middle"
+        font-family="SF Pro Display, SF Pro Text, Helvetica Neue, Arial, sans-serif"
+        font-size="38" font-weight="750" letter-spacing="-1.2"
+        fill="#F7F7F4">SU</text>
+  <rect x="46" y="95" width="36" height="4" rx="2" fill="url(#m26-accent)"/></g>
+          <text x="70" y="172" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="18" font-weight="700" fill="#1C1D1F">Suno</text>
+          <text x="70" y="198" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="12" font-weight="650" letter-spacing="1.2" fill="#E99B5A">SU</text>
+        </g><g transform="translate(686 1356)">
+          <g transform="scale(1.09375)"><defs>
+    <linearGradient id="m27-surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#292C2F"/>
+      <stop offset="0.56" stop-color="#17191B"/>
+      <stop offset="1" stop-color="#0B0C0D"/>
+    </linearGradient>
+    <linearGradient id="m27-accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8D89E9" stop-opacity="0.88"/>
+      <stop offset="1" stop-color="#8D89E9"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="35" fill="url(#m27-surface)"/>
+  <rect x="0.75" y="0.75" width="126.5" height="126.5" rx="34.25"
+        fill="none" stroke="#FFFFFF" stroke-opacity="0.15" stroke-width="1.5"/>
+  <text x="64" y="75" text-anchor="middle"
+        font-family="SF Pro Display, SF Pro Text, Helvetica Neue, Arial, sans-serif"
+        font-size="38" font-weight="750" letter-spacing="-1.2"
+        fill="#F7F7F4">UD</text>
+  <rect x="46" y="95" width="36" height="4" rx="2" fill="url(#m27-accent)"/></g>
+          <text x="70" y="172" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="18" font-weight="700" fill="#1C1D1F">Udio</text>
+          <text x="70" y="198" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="12" font-weight="650" letter-spacing="1.2" fill="#8D89E9">UD</text>
+        </g><g transform="translate(986 1356)">
+          <g transform="scale(1.09375)"><defs>
+    <linearGradient id="m28-surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#292C2F"/>
+      <stop offset="0.56" stop-color="#17191B"/>
+      <stop offset="1" stop-color="#0B0C0D"/>
+    </linearGradient>
+    <linearGradient id="m28-accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#70BFAE" stop-opacity="0.88"/>
+      <stop offset="1" stop-color="#70BFAE"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="35" fill="url(#m28-surface)"/>
+  <rect x="0.75" y="0.75" width="126.5" height="126.5" rx="34.25"
+        fill="none" stroke="#FFFFFF" stroke-opacity="0.15" stroke-width="1.5"/>
+  <text x="64" y="75" text-anchor="middle"
+        font-family="SF Pro Display, SF Pro Text, Helvetica Neue, Arial, sans-serif"
+        font-size="38" font-weight="750" letter-spacing="-1.2"
+        fill="#F7F7F4">EM</text>
+  <rect x="46" y="95" width="36" height="4" rx="2" fill="url(#m28-accent)"/></g>
+          <text x="70" y="172" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="18" font-weight="700" fill="#1C1D1F">Eleven Music</text>
+          <text x="70" y="198" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="12" font-weight="650" letter-spacing="1.2" fill="#70BFAE">EM</text>
+        </g><g transform="translate(1286 1356)">
+          <g transform="scale(1.09375)"><defs>
+    <linearGradient id="m29-surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#292C2F"/>
+      <stop offset="0.56" stop-color="#17191B"/>
+      <stop offset="1" stop-color="#0B0C0D"/>
+    </linearGradient>
+    <linearGradient id="m29-accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#D889B6" stop-opacity="0.88"/>
+      <stop offset="1" stop-color="#D889B6"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="35" fill="url(#m29-surface)"/>
+  <rect x="0.75" y="0.75" width="126.5" height="126.5" rx="34.25"
+        fill="none" stroke="#FFFFFF" stroke-opacity="0.15" stroke-width="1.5"/>
+  <text x="64" y="75" text-anchor="middle"
+        font-family="SF Pro Display, SF Pro Text, Helvetica Neue, Arial, sans-serif"
+        font-size="38" font-weight="750" letter-spacing="-1.2"
+        fill="#F7F7F4">LY</text>
+  <rect x="46" y="95" width="36" height="4" rx="2" fill="url(#m29-accent)"/></g>
+          <text x="70" y="172" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="18" font-weight="700" fill="#1C1D1F">Lyria</text>
+          <text x="70" y="198" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="12" font-weight="650" letter-spacing="1.2" fill="#D889B6">LY</text>
+        </g><g transform="translate(86 1588)">
+          <g transform="scale(1.09375)"><defs>
+    <linearGradient id="m30-surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#292C2F"/>
+      <stop offset="0.56" stop-color="#17191B"/>
+      <stop offset="1" stop-color="#0B0C0D"/>
+    </linearGradient>
+    <linearGradient id="m30-accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#82BDC8" stop-opacity="0.88"/>
+      <stop offset="1" stop-color="#82BDC8"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="35" fill="url(#m30-surface)"/>
+  <rect x="0.75" y="0.75" width="126.5" height="126.5" rx="34.25"
+        fill="none" stroke="#FFFFFF" stroke-opacity="0.15" stroke-width="1.5"/>
+  <text x="64" y="75" text-anchor="middle"
+        font-family="SF Pro Display, SF Pro Text, Helvetica Neue, Arial, sans-serif"
+        font-size="38" font-weight="750" letter-spacing="-1.2"
+        fill="#F7F7F4">SA</text>
+  <rect x="46" y="95" width="36" height="4" rx="2" fill="url(#m30-accent)"/></g>
+          <text x="70" y="172" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="18" font-weight="700" fill="#1C1D1F">Stable Audio</text>
+          <text x="70" y="198" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="12" font-weight="650" letter-spacing="1.2" fill="#82BDC8">SA</text>
+        </g><g transform="translate(386 1588)">
+          <g transform="scale(1.09375)"><defs>
+    <linearGradient id="m31-surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#292C2F"/>
+      <stop offset="0.56" stop-color="#17191B"/>
+      <stop offset="1" stop-color="#0B0C0D"/>
+    </linearGradient>
+    <linearGradient id="m31-accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#E58D84" stop-opacity="0.88"/>
+      <stop offset="1" stop-color="#E58D84"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="35" fill="url(#m31-surface)"/>
+  <rect x="0.75" y="0.75" width="126.5" height="126.5" rx="34.25"
+        fill="none" stroke="#FFFFFF" stroke-opacity="0.15" stroke-width="1.5"/>
+  <text x="64" y="75" text-anchor="middle"
+        font-family="SF Pro Display, SF Pro Text, Helvetica Neue, Arial, sans-serif"
+        font-size="32" font-weight="750" letter-spacing="-1.4"
+        fill="#F7F7F4">MMS</text>
+  <rect x="46" y="95" width="36" height="4" rx="2" fill="url(#m31-accent)"/></g>
+          <text x="70" y="172" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="18" font-weight="700" fill="#1C1D1F">MiniMax Speech</text>
+          <text x="70" y="198" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="12" font-weight="650" letter-spacing="1.2" fill="#E58D84">MMS</text>
+        </g><g transform="translate(686 1588)">
+          <g transform="scale(1.09375)"><defs>
+    <linearGradient id="m32-surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#292C2F"/>
+      <stop offset="0.56" stop-color="#17191B"/>
+      <stop offset="1" stop-color="#0B0C0D"/>
+    </linearGradient>
+    <linearGradient id="m32-accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#E8A76B" stop-opacity="0.88"/>
+      <stop offset="1" stop-color="#E8A76B"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="35" fill="url(#m32-surface)"/>
+  <rect x="0.75" y="0.75" width="126.5" height="126.5" rx="34.25"
+        fill="none" stroke="#FFFFFF" stroke-opacity="0.15" stroke-width="1.5"/>
+  <text x="64" y="75" text-anchor="middle"
+        font-family="SF Pro Display, SF Pro Text, Helvetica Neue, Arial, sans-serif"
+        font-size="32" font-weight="750" letter-spacing="-1.4"
+        fill="#F7F7F4">MMM</text>
+  <rect x="46" y="95" width="36" height="4" rx="2" fill="url(#m32-accent)"/></g>
+          <text x="70" y="172" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="18" font-weight="700" fill="#1C1D1F">MiniMax Music</text>
+          <text x="70" y="198" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="12" font-weight="650" letter-spacing="1.2" fill="#E8A76B">MMM</text>
+        </g><g transform="translate(986 1588)">
+          <g transform="scale(1.09375)"><defs>
+    <linearGradient id="m33-surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#292C2F"/>
+      <stop offset="0.56" stop-color="#17191B"/>
+      <stop offset="1" stop-color="#0B0C0D"/>
+    </linearGradient>
+    <linearGradient id="m33-accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#68B8D0" stop-opacity="0.88"/>
+      <stop offset="1" stop-color="#68B8D0"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="35" fill="url(#m33-surface)"/>
+  <rect x="0.75" y="0.75" width="126.5" height="126.5" rx="34.25"
+        fill="none" stroke="#FFFFFF" stroke-opacity="0.15" stroke-width="1.5"/>
+  <text x="64" y="75" text-anchor="middle"
+        font-family="SF Pro Display, SF Pro Text, Helvetica Neue, Arial, sans-serif"
+        font-size="38" font-weight="750" letter-spacing="-1.2"
+        fill="#F7F7F4">FA</text>
+  <rect x="46" y="95" width="36" height="4" rx="2" fill="url(#m33-accent)"/></g>
+          <text x="70" y="172" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="18" font-weight="700" fill="#1C1D1F">Fish Audio</text>
+          <text x="70" y="198" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="12" font-weight="650" letter-spacing="1.2" fill="#68B8D0">FA</text>
+        </g><g transform="translate(1286 1588)">
+          <g transform="scale(1.09375)"><defs>
+    <linearGradient id="m34-surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#292C2F"/>
+      <stop offset="0.56" stop-color="#17191B"/>
+      <stop offset="1" stop-color="#0B0C0D"/>
+    </linearGradient>
+    <linearGradient id="m34-accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#85C596" stop-opacity="0.88"/>
+      <stop offset="1" stop-color="#85C596"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="35" fill="url(#m34-surface)"/>
+  <rect x="0.75" y="0.75" width="126.5" height="126.5" rx="34.25"
+        fill="none" stroke="#FFFFFF" stroke-opacity="0.15" stroke-width="1.5"/>
+  <text x="64" y="75" text-anchor="middle"
+        font-family="SF Pro Display, SF Pro Text, Helvetica Neue, Arial, sans-serif"
+        font-size="32" font-weight="750" letter-spacing="-1.4"
+        fill="#F7F7F4">SON</text>
+  <rect x="46" y="95" width="36" height="4" rx="2" fill="url(#m34-accent)"/></g>
+          <text x="70" y="172" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="18" font-weight="700" fill="#1C1D1F">Cartesia Sonic</text>
+          <text x="70" y="198" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="12" font-weight="650" letter-spacing="1.2" fill="#85C596">SON</text>
+        </g><g transform="translate(86 1820)">
+          <g transform="scale(1.09375)"><defs>
+    <linearGradient id="m35-surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#292C2F"/>
+      <stop offset="0.56" stop-color="#17191B"/>
+      <stop offset="1" stop-color="#0B0C0D"/>
+    </linearGradient>
+    <linearGradient id="m35-accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#988EE5" stop-opacity="0.88"/>
+      <stop offset="1" stop-color="#988EE5"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="35" fill="url(#m35-surface)"/>
+  <rect x="0.75" y="0.75" width="126.5" height="126.5" rx="34.25"
+        fill="none" stroke="#FFFFFF" stroke-opacity="0.15" stroke-width="1.5"/>
+  <text x="64" y="75" text-anchor="middle"
+        font-family="SF Pro Display, SF Pro Text, Helvetica Neue, Arial, sans-serif"
+        font-size="38" font-weight="750" letter-spacing="-1.2"
+        fill="#F7F7F4">PD</text>
+  <rect x="46" y="95" width="36" height="4" rx="2" fill="url(#m35-accent)"/></g>
+          <text x="70" y="172" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="18" font-weight="700" fill="#1C1D1F">PlayDialog</text>
+          <text x="70" y="198" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="12" font-weight="650" letter-spacing="1.2" fill="#988EE5">PD</text>
+        </g><g transform="translate(386 1820)">
+          <g transform="scale(1.09375)"><defs>
+    <linearGradient id="m36-surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#292C2F"/>
+      <stop offset="0.56" stop-color="#17191B"/>
+      <stop offset="1" stop-color="#0B0C0D"/>
+    </linearGradient>
+    <linearGradient id="m36-accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#76BBAA" stop-opacity="0.88"/>
+      <stop offset="1" stop-color="#76BBAA"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="35" fill="url(#m36-surface)"/>
+  <rect x="0.75" y="0.75" width="126.5" height="126.5" rx="34.25"
+        fill="none" stroke="#FFFFFF" stroke-opacity="0.15" stroke-width="1.5"/>
+  <text x="64" y="75" text-anchor="middle"
+        font-family="SF Pro Display, SF Pro Text, Helvetica Neue, Arial, sans-serif"
+        font-size="38" font-weight="750" letter-spacing="-1.2"
+        fill="#F7F7F4">MF</text>
+  <rect x="46" y="95" width="36" height="4" rx="2" fill="url(#m36-accent)"/></g>
+          <text x="70" y="172" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="18" font-weight="700" fill="#1C1D1F">Murf Falcon</text>
+          <text x="70" y="198" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="12" font-weight="650" letter-spacing="1.2" fill="#76BBAA">MF</text>
+        </g><g transform="translate(686 1820)">
+          <g transform="scale(1.09375)"><defs>
+    <linearGradient id="m37-surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#292C2F"/>
+      <stop offset="0.56" stop-color="#17191B"/>
+      <stop offset="1" stop-color="#0B0C0D"/>
+    </linearGradient>
+    <linearGradient id="m37-accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#72C6B7" stop-opacity="0.88"/>
+      <stop offset="1" stop-color="#72C6B7"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="35" fill="url(#m37-surface)"/>
+  <rect x="0.75" y="0.75" width="126.5" height="126.5" rx="34.25"
+        fill="none" stroke="#FFFFFF" stroke-opacity="0.15" stroke-width="1.5"/>
+  <text x="64" y="75" text-anchor="middle"
+        font-family="SF Pro Display, SF Pro Text, Helvetica Neue, Arial, sans-serif"
+        font-size="32" font-weight="750" letter-spacing="-1.4"
+        fill="#F7F7F4">E11</text>
+  <rect x="46" y="95" width="36" height="4" rx="2" fill="url(#m37-accent)"/></g>
+          <text x="70" y="172" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="18" font-weight="700" fill="#1C1D1F">Eleven v3</text>
+          <text x="70" y="198" text-anchor="middle"
+                font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+                font-size="12" font-weight="650" letter-spacing="1.2" fill="#72C6B7">E11</text>
+        </g>
+      <text x="72" y="2104" font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+            font-size="13" font-weight="600" fill="#85898E">Prompt Dock / Selected model badge system</text>
+      <text x="1528" y="2104" text-anchor="end" font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif"
+            font-size="13" font-weight="650" fill="#A0A3A7">38 / MODELS</text>
+    </svg>

@@ -1,0 +1,44 @@
+name: Workflow feedback
+description: 分享你的 Prompt 工作流和改进建议
+title: "[Workflow] "
+labels: ["workflow-feedback"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        真实工作流反馈会帮助我们判断这个方向是否值得继续。请勿提交私人 Prompt 或客户数据。
+  - type: textarea
+    id: tools
+    attributes:
+      label: 你的使用场景
+      description: 你通常在哪些 AI 工具之间切换？
+    validations:
+      required: true
+  - type: input
+    id: prompt_count
+    attributes:
+      label: Prompt 数量
+      placeholder: 例如 20、100、500+
+  - type: dropdown
+    id: preferred_mode
+    attributes:
+      label: 你最想使用的入口
+      options:
+        - 悬浮面板
+        - 按键转盘
+        - 屏幕边缘栏
+        - 全局搜索
+        - 还不确定
+    validations:
+      required: true
+  - type: textarea
+    id: friction
+    attributes:
+      label: 当前最慢的一步
+      description: 请描述现有流程中最影响效率的环节。
+    validations:
+      required: true
+  - type: textarea
+    id: improvement
+    attributes:
+      label: 希望 Prompt Dock 如何改进

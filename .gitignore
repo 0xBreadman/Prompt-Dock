@@ -1,0 +1,29 @@
+# macOS
+.DS_Store
+.AppleDouble
+
+# Xcode user state
+xcuserdata/
+*.xcuserstate
+*.xccheckout
+*.xcscmblueprint
+
+# Build output
+.build/
+.swiftpm/
+DerivedData/
+build/
+*.dSYM
+*.dSYM.zip
+*.xcarchive
+
+# Local signing material and environment
+.env
+.env.*
+*.p12
+*.cer
+*.mobileprovision
+
+# Prompt Dock user data and backups
+library.json
+Backups/
