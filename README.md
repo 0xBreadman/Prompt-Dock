@@ -1,6 +1,10 @@
 # Prompt Dock
 
 <p align="center">
+  <strong>简体中文</strong> · <a href="README_EN.md">English</a>
+</p>
+
+<p align="center">
   <img src="Docs/Brand/AppIcon-master-v3-selected.png" width="112" alt="Prompt Dock icon">
 </p>
 
@@ -14,8 +18,6 @@
 </p>
 
 Prompt Dock 不是笔记软件。后台负责整理完整 Prompt 库和不同工作预设，前台只保留此刻真正要用的快捷入口。它适合频繁在 ChatGPT、Gemini、Grok、图像模型和视频模型之间切换的人。
-
-**English:** Prompt Dock is a local-first prompt launcher for macOS. Organize long prompts into work presets, then copy them from a floating panel, a radial menu, or an edge shelf.
 
 ## 三种使用速度
 
